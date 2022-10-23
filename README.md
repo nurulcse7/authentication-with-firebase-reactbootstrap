@@ -1,4 +1,28 @@
+# Authentication-with-firebase-reactBootstrap
 
+#### Live link [Click here]()
+
+#### Code link [Click here]()
+
+### Description
+
+- This project start with create-react-app
+- Implement UI as per requirement
+- Created dynamic router
+- Every section completed after code push on GitHub
+
+### Technology
+
+- JavaScript
+- React.js
+- React Router Dom (npm install react-router-dom)
+- React-Context
+- React Firebase Hooks (npm install --save react-firebase-hooks)
+- React Hook Form (npm install react-hook-form)
+- React-Toastify
+- React Icons (npm install react-icons --save)
+- ReactBootstrap
+- Deploy in firebase
 
 <!--
 # Getting Started with Create React App
@@ -73,4 +97,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
  -->
+
 # authentication-with-firebase-reactbootstrap
