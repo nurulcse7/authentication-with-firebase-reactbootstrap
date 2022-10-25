@@ -1,0 +1,47 @@
+.web-title {
+  text-decoration: none;
+  font-size: larger;
+  font-weight: 700;
+}
+
+.home {
+  text-decoration: none;
+  margin-right: 15px;
+  margin-top: 8px;
+  color: blue;
+}
+.news {
+  text-decoration: none;
+  margin-right: 15px;
+  margin-top: 8px;
+  color: blue;
+}
+
+.about {
+  text-decoration: none;
+  margin-right: 15px;
+  margin-top: 8px;
+  color: blue;
+}
+
+.signin {
+  text-decoration: none;
+  margin-right: 15px;
+  margin-top: 8px;
+  color: blue;
+}
+.signup {
+  text-decoration: none;
+  margin-right: 15px;
+  margin-top: 8px;
+  color: blue;
+}
+.user {
+  text-decoration: none;
+  margin-right: 15px;
+  margin-top: 8px;
+  color: blue;
+}
+
+
+

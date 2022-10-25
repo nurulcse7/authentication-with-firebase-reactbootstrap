@@ -2,7 +2,7 @@
 
 #### Live link [Click here]()
 
-#### Code link [Click here]()
+#### Code link [Click here](https://github.com/nurulcse7/authentication-with-firebase-reactbootstrap)
 
 ### Description
 
@@ -20,8 +20,9 @@
 - React Firebase Hooks (npm install --save react-firebase-hooks)
 - React Hook Form (npm install react-hook-form)
 - React-Toastify
+- React Hot Toast (npm install react-hot-toast)
 - React Icons (npm install react-icons --save)
-- ReactBootstrap
+- ReactBootstrap (npm install react-bootstrap bootstrap)
 - Deploy in firebase
 
 <!--
